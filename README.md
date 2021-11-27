@@ -1,5 +1,5 @@
 # 步步高家教机电脑破解
-
+## [QQ群](QQ_Group.md)
 ## 支持机型
 - [S3 Pro](S3Pro.md)
 - [S3 ProW](S3ProW.md)
