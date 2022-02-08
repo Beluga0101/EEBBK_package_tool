@@ -1,8 +1,7 @@
 # EEBBK Toolbox
-## [QQ群](QQ_Group.md)
 
 *最新版本：1.0.3 (4)*
-
+## [QQ群](QQ_Group.md)
 ## 下载地址
 [蓝奏云](https://ycly.lanzouw.com/b0aml0aih)
 
