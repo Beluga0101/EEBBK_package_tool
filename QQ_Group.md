@@ -8,4 +8,5 @@
 ## QQ频道
 
 **请使用最新版手机QQ扫码二维码**
+
 ![guild](qq_guild_qrcode_eebbk.png)
