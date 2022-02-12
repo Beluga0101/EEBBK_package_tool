@@ -5,7 +5,7 @@
 - 工具包版本：V1
 
 ### 感谢名单
-[affggh](http://www.coolapk.com/u/1177080) （工具包使用了[Magiskboot patch win](https://github.com/affggh/magiskboot_and_patch_win)工具）
+[affggh](https://github.com/affggh) （工具包使用了[Magiskboot patch win](https://github.com/affggh/magiskboot_and_patch_win)工具）
 
 
 **如果您转载本人的工具包，请务必保留原作者信息**
