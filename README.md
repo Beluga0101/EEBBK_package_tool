@@ -9,6 +9,7 @@
 ## 支持机型
 - [S3 Pro](S3Pro.md)
 - [S3 ProW](S3ProW.md)
+- [S3 Pros](S3Pros.md)
 - [S5](S5.md)
 - [S6](S6.md)
 - [S1A](S1A.md)
