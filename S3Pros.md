@@ -2,7 +2,7 @@
 
 ## 关于工具包
 - 作者：洋葱落叶
-- 工具包版本：V1
+- 工具包版本：V1.1
 
 ### 感谢名单
 [affggh](https://github.com/affggh) （工具包使用了[Magiskboot patch win](https://github.com/affggh/magiskboot_and_patch_win)工具）
@@ -24,13 +24,13 @@
 4. 如果您使用本工具包对家教机进行解除第三方软件安装限制之操作，即默认您同意本《免责声明》。
 
 ## 校验码
-**MD5**：927BF943CD3CA336FFCB90E0343DF160
+**MD5**：6F22CCE57E5F2A3224A4FF0BF80ABAE3
 
-**CRC-32**：3A7A3ACD
+**CRC-32**：F406E748
 
-**SHA-1**：b128332d845d2dba5cbab7beed3fece79d3b2fc1
+**SHA-1**：9f251e34bb32d14cf0ca3b8d29689895c09229e7
 
-**SHA-256**：e65f5cd603ee53a4c6ff358261dbd818109e7e9a6eaade3cc662a341991378eb
+**SHA-256**：ad4f5d0f9fbb7cf4992edc88daed81b07286b186e59546ad3ec51015fbff11b3
 
 ## 下载地址
 [天翼云盘](https://cloud.189.cn/t/JJzmueaMZ7ru)
