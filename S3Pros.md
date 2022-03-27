@@ -40,3 +40,5 @@
 密码：vxl9
 
 [OneDrive](https://dljz-my.sharepoint.com/:f:/g/personal/ycly_nii_ink/EvsJKNpEwotEhwakT9OdVZUBz_8Mxhc2YnkukuCYF4tZag?e=8p1ktA)
+
+[阿里云盘](https://www.aliyundrive.com/s/adWJspVEgEU)
