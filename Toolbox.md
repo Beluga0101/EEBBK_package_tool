@@ -16,9 +16,9 @@
 
 - 1.0.7 (107)
 
-1. 移除*RE文件管理器*
+1. 移除 *RE文件管理器*
 
-2. 添加*质感文件*
+2. 添加 [*质感文件*](https://www.coolapk.com/apk/me.zhanghai.android.files)
 
 - 1.0.6 (106)
 
@@ -34,9 +34,9 @@
 
 - 1.0.4 (104)
 
-1. 移除*无障碍-Daemon*
+1. 移除 *无障碍-Daemon*
 
-2. 添加*创建快捷方式*
+2. 添加 [*创建快捷方式*](https://www.coolapk.com/apk/com.x7890.shortcutcreator)
 
 3. 更改内部版本号命名规则
 
