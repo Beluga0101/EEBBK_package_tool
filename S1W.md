@@ -8,7 +8,7 @@
 
 **本工具包遵循CC BY-NC-SA 4.0协议**
 
-**作者信息和最新版本信息请 以[Github](https://github.com/ycly2333/EEBBK_package_tool/blob/main/S1W.md)页面为准***
+**作者信息和最新版本信息请 以[Github](https://github.com/ycly2333/EEBBK_package_tool/blob/main/S1W.md)页面为准**
 
 ## [QQ群](QQ_Group.md)
 
