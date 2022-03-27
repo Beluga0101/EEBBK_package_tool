@@ -37,4 +37,4 @@
 
 [蓝奏云](https://ycly.lanzouw.com/b0amqti6h)
 
-密码:6u9c
+密码:ycly
