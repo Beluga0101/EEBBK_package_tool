@@ -1,6 +1,6 @@
 # EEBBK Toolbox
 
-*最新版本：1.0.6 (106)*
+*最新版本：1.0.7 (107)*
 
 ## [QQ群](QQ_Group.md)
 
@@ -13,6 +13,12 @@
 [OneDrive](https://dljz-my.sharepoint.com/:f:/g/personal/ycly_nii_ink/EsbdEB2fiElNt6VqHK_dCc8BrzPkIj4QhOnCzMB591wSTA?e=npXU5i)
 
 ### 更新日志
+
+- 1.0.7 (107)
+
+1. 移除*RE文件管理器*
+
+2. 添加*质感文件*
 
 - 1.0.6 (106)
 
@@ -28,9 +34,11 @@
 
 - 1.0.4 (104)
 
-1. 更换“无障碍-Daemon”为“创建快捷方式”
+1. 移除*无障碍-Daemon*
 
-2. 更改内部版本号命名规则
+2. 添加*创建快捷方式*
+
+3. 更改内部版本号命名规则
 
 - 1.0.3 (4)
 
