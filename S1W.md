@@ -36,7 +36,3 @@
 [OneDrive](https://dljz-my.sharepoint.com/:f:/g/personal/ycly_nii_ink/EniG14UgBTJPsKCpVVuInssBMlGQUAhXUFru4bsfEUOCBg?e=qKR4qn)
 
 [阿里云盘](https://www.aliyundrive.com/s/pWP7ovfsTJ5)
-
-[蓝奏云](https://ycly.lanzouw.com/b0amqti6h)
-
-密码:ycly
