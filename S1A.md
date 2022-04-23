@@ -31,12 +31,9 @@
 **SHA-256**：A0BD00EFA2C77EBEF760A2D4F9BBDBA88688A305431E9EC90B28E86B7E07EFB8
 
 ## 下载地址
-[天翼云盘](https://cloud.189.cn/t/BJJjIjieI3ia)
+[天翼云盘](https://cloud.189.cn/t/Qb2I7b3Ifq6f)
 
-密码：zi2u
+密码：bo2m
 
-[移动和彩云](http://caiyun.feixin.10086.cn/dl/0H5CteoqCFtn8)
-
-密码：7ntK
 
 [OneDrive](https://dljz-my.sharepoint.com/:f:/g/personal/ycly_nii_ink/Eof0VDqtz69Ktvnb28JVUsQBvE1AEIFvQavEMFYVbBIpsg?e=aRbhQh)
