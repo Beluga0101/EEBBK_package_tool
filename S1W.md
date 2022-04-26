@@ -28,7 +28,7 @@
 
 **SHA-256**：668b6bf787a622aafa1590b6a91a61041e805dba1d996b3f89745281d8cb25e3
 
-## [视频教程](https://www.bilibili.com/video/av255487188)
+## 本工具已内置视频教程
 
 ## 下载地址
 [天翼云盘](https://cloud.189.cn/t/BJJjIjieI3ia)
