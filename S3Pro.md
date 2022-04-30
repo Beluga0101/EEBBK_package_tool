@@ -32,5 +32,6 @@
 
 密码：ge1b
 
+[阿里云盘](https://www.aliyundrive.com/s/AztWMnXWev6)
 
 [OneDrive](https://dljz-my.sharepoint.com/:f:/g/personal/ycly_nii_ink/En7mb_gys-RGg3wg3kdxiCQBonmfw6EgLaksGuvhAfSxLA?e=7crv2T)
