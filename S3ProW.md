@@ -42,4 +42,6 @@
 
 密码：yfg5
 
+[阿里云盘](https://www.aliyundrive.com/s/guZKkcPjA9H)
+
 [OneDrive](https://dljz-my.sharepoint.com/:f:/g/personal/ycly_nii_ink/EiPeyWF3ZExMkk4iI5moXAoBoZMlYc4JZztgk_w5S-5lag?e=vM1YUO)
