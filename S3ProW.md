@@ -6,15 +6,13 @@
 
 - 系统版本：1.2.0
 
-- 工具包版本：V2
+- 工具包版本：V2.1
 
 **如果您转载本人的工具包，请务必保留原作者信息**
 
 **本工具包遵循CC BY-NC-SA 4.0协议**
 
 **作者信息和最新版本信息请以[Github](https://github.com/ycly2333/EEBBK_package_tool/blob/main/S3ProW.md)页面为准**
-
-## [QQ群](QQ_Group.md)
 
 ## 关于步步高家教机解除第三方软件安装限制免责声明
 
@@ -30,13 +28,13 @@
 
 ## 校验码
 
-**MD5**：2ec39ec74b1b913deabf4a8361c017f9
+**MD5**：e4a6e2c4c2b470fa9b4e9b1cc2d499fe
 
-**CRC-32**：709d47ed
+**CRC-32**：835ea392
 
-**SHA-1**：b234c26b8811b607c50fc4173f669bd0da4e6fe9
+**SHA-1**：06d68bda6276033b6ba806931d03b7866a9caa19
 
-**SHA-256**：0d12933973f5a37079e43856fbaf8f2b893ee785943d9c30d3103033b768a759
+**SHA-256**：a9c5c236420296e606524ec8aa7287ffdd604d374fc172518e9b7f736988e3ed
 
 ## 下载地址
 
