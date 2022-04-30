@@ -2,7 +2,7 @@
 
 ## 关于工具包
 - 作者：洋葱落叶
-- 工具包版本：V2.3
+- 工具包版本：V2.4
 
 ### 感谢名单
 [affggh](https://github.com/affggh) （工具包使用了[Magisk patcher](https://github.com/affggh/Magisk_patcher)工具）
@@ -13,8 +13,6 @@
 
 **作者信息和最新版本信息请以[Github](https://github.com/ycly2333/EEBBK_package_tool/blob/main/S3Pros.md)页面为准**
 
-## [QQ群](QQ_Group.md)
-
 ## 关于步步高家教机解除第三方软件安装限制免责声明
 *协议更新日期：2022年2月6日*
 1. 所有已经解除第三方软件安装限制的家教机都可以恢复到解除限制前之状态。
@@ -23,13 +21,13 @@
 4. 如果您使用本工具包对家教机进行解除第三方软件安装限制之操作，即默认您同意本《免责声明》。
 
 ## 校验码
-**MD5**：11719a8f9af21f93156679f1d0afbe2a
+**MD5**：d2d8fc004a279246d705345f3d637c27
 
-**CRC-32**：dc6f2465
+**CRC-32**：e722d1c5
 
-**SHA-1**：462625d852b9dee250b50f4742cd3bc6609223f6
+**SHA-1**：375048c9cd785497268fbe5597f0ff1e81e0f352
 
-**SHA-256**：68ebd69afb8a38a4a5b4e0cf6587f21b539c6ca07ab164a5cf347315084db9d3
+**SHA-256**：38ef655a52109d14bcd47471713430e3ecef1da8bc3f235c8ebfb32e79fbfd6b
 
 ## 本工具已内置视频教程
 
