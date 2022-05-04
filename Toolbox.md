@@ -1,8 +1,6 @@
 # EEBBK Toolbox
 
-*最新版本：1.0.8 (108)*
-
-## [QQ群](QQ_Group.md)
+*最新版本：1.0.9 (109)*
 
 ## 下载地址
 
@@ -13,6 +11,12 @@
 [OneDrive](https://dljz-my.sharepoint.com/:f:/g/personal/ycly_nii_ink/EsbdEB2fiElNt6VqHK_dCc8BrzPkIj4QhOnCzMB591wSTA?e=npXU5i)
 
 ### 更新日志
+
+- 1.0.9 (109)
+
+1. 更换更新地址
+
+2. 更换部分信息
 
 - 1.0.8 (108)
 
