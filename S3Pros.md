@@ -2,10 +2,7 @@
 
 ## 关于工具包
 - 作者：洋葱落叶
-- 工具包版本：V3
-
-### 感谢名单
-[affggh](https://github.com/affggh) （工具包使用了[Magisk patcher](https://github.com/affggh/Magisk_patcher)工具）
+- 工具包版本：V4
 
 **如果您转载本人的工具包，请务必保留原作者信息**
 
