@@ -17,13 +17,20 @@
 3. 您对家教机进行解除第三方软件安装限制之操作属于您的自愿行为，若在操作过程中由于操作不当等自身原因，导致出现家教机无法正常使用等异常情况，以及解除软件安装限制之后产生的一切后果将由您本人承担！
 4. 如果您使用本工具包对家教机进行解除第三方软件安装限制之操作，即默认您同意本《免责声明》。
 
-## 本工具已内置视频教程
+## 校验码
+**MD5**：39984742CC946494C8B967FFBE53F3F1
+
+**CRC-32**：F2344C63
+
+**SHA-1**：841407352a33f9b1461f9d7bbb2f264c86f960b0
+
+**SHA-256**：24c12b649443a22f5a3793f5db9468fef9767ae61fceefa5b328b0094655f5a7
 
 ## 下载地址
-[天翼云盘](https://cloud.189.cn/t/JJzmueaMZ7ru)
+[天翼云盘](https://cloud.189.cn/t/zaYjMra2uAZv)
 
-密码：vxl9
+密码：myl6
 
 [OneDrive](https://dljz-my.sharepoint.com/:f:/g/personal/ycly_nii_ink/EvsJKNpEwotEhwakT9OdVZUBz_8Mxhc2YnkukuCYF4tZag?e=8p1ktA)
 
-[阿里云盘](https://www.aliyundrive.com/s/adWJspVEgEU)
+[阿里云盘](https://www.aliyundrive.com/s/U6PvGyvMk96)
