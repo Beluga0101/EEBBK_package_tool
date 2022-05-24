@@ -10,7 +10,8 @@
 ## 支持机型
 - [H8SM H9A H9S S1Pro](MT8167.md)
 - [S3 Pro](S3Pro.md)
-- [S3 ProW](S3ProW.md)
+- [S3 Prow 2G](S3Prow.md)
+- [S3 Prow 4G](S3Prow_4G.md)
 - [S3 Pros](S3Pros.md)
 - [S5](S5.md)
 - [S6](S6.md)
