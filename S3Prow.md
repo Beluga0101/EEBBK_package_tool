@@ -1,4 +1,4 @@
-# 步步高家教机S3 ProW解除第三方软件安装限制工具
+# 步步高家教机S3 Prow解除第三方软件安装限制工具
 
 ## 关于工具包
 
@@ -12,7 +12,7 @@
 
 **本工具包遵循CC BY-NC-SA 4.0协议**
 
-**作者信息和最新版本信息请以[Github](https://github.com/ycly2333/EEBBK_package_tool/blob/main/S3ProW.md)页面为准**
+**作者信息和最新版本信息请以[Github](https://github.com/ycly2333/EEBBK_package_tool/blob/main/S3Prow.md)页面为准**
 
 ## 关于步步高家教机解除第三方软件安装限制免责声明
 
