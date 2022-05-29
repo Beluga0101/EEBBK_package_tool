@@ -1,6 +1,6 @@
 # EEBBK Toolbox
 
-*最新版本：1.1.1 (111)*
+*最新版本：1.1.2 (112)*
 
 ## 下载地址
 
@@ -11,6 +11,12 @@
 [OneDrive](https://dljz-my.sharepoint.com/:f:/g/personal/ycly_nii_ink/EsbdEB2fiElNt6VqHK_dCc8BrzPkIj4QhOnCzMB591wSTA?e=npXU5i)
 
 ### 更新日志
+
+- 1.1.2 (112)
+
+1. 修正部分功能描述
+
+2. 更新 *via* 4.3.9 (20220528)
 
 - 1.1.1 (111)
 
