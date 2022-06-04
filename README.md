@@ -13,6 +13,7 @@
 - [S3 Prow](S3Prow.md)
 - [S3 Pros](S3Pros.md)
 - [S5](S5.md)
+- [S5 Pro](S5Pro.md)
 - [S6](S6.md)
 - [S1A](S1A.md)
 - [S1W](S1W.md)
