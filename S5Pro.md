@@ -9,7 +9,7 @@
 
 **本工具包遵循CC BY-NC-SA 4.0协议**
 
-**作者信息和最新版本信息请以[Github](https://github.com/ycly2333/EEBBK_package_tool/blob/main/S5Pro.md)页面为准**
+**作者信息和最新版本信息请以[Github](https://github.com/EEBBK-BOOM/EEBBK_package_tool/blob/main/S5Pro.md)页面为准**
 
 ## 关于步步高家教机解除第三方软件安装限制免责声明
 *协议更新日期：2022年2月6日*
