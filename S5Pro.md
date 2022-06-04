@@ -19,18 +19,18 @@
 4. 如果您使用本工具包对家教机进行解除第三方软件安装限制之操作，即默认您同意本《免责声明》。
 
 ## 校验码
-**MD5**：14378f798749f0d0ed7d8ea5f40f422a
+**MD5**：1508753b3df4301ce8fbbfbd52b0fb0e
 
-**CRC-32**：61edb9b6
+**CRC-32**：d03cab2e
 
-**SHA-1**：6d54b5daba5b23e7a47d9ed7138d731e05055f75
+**SHA-1**：5a7456d949feca09f294631a714f6e99f81d456c
 
-**SHA-256**：054129a5edcccc3416f7cc635c24328beff8ff81300b8646ddcd329703b2a14a
+**SHA-256**：da83cfb8f1c6987e4b093b74781d37b9154875a4b8af7b76945d14d8ba8c9b64
 
 ## 下载地址
 
-[天翼云盘](https://cloud.189.cn/t/mqmQBvYFNvY3)
+[天翼云盘](https://cloud.189.cn/t/juAfAvUFbAN3)
 
-密码：9nmu
+密码：hyh6
 
-[OneDrive](https://1drv.ms/u/s!ArkNhbgspqsJgXwB_iT-Tbp-Txa2?e=jpEaqb)
+[OneDrive](https://1drv.ms/u/s!ArkNhbgspqsJgX2wpUy-8hRMc5Cm?e=LPJKRS)
