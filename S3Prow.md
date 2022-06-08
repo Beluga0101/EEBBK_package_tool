@@ -6,9 +6,9 @@
 
 - 适用版本：V1.4.0以上
 
-- 工具包版本：V3
+- 工具包版本：V3.1
 
-*S3 Prow 2G版和4G版工具自V3版本合并*
+*S3 Prow 2G版和4G版工具自V3版本起合并*
 
 **如果您转载本人的工具包，请务必保留原作者信息**
 
@@ -30,19 +30,19 @@
 
 ## 校验码
 
-**MD5**：7376a2926ac3a36962362a2149594a2c
+**MD5**：e7f939d373835d9a7be35f207e8385a9
 
-**CRC-32**：7a21caed
+**CRC-32**：6705247f
 
-**SHA-1**：8d052c8a9ddc09c77d416b99e1c9076da61e1637
+**SHA-1**：3952b938048f5aeaf6d774a2f8d2a60a1584a423
 
-**SHA-256**：8851a0f9d498c1367c7564d8899334f478e6cf4b45d3809b93c1ee4c620666f0
+**SHA-256**：490f435b1bfee62e5e9e9fbf3d71897e593fb317506ca99478167c1c558ff7c9
 
 ## 下载地址
 
-[天翼云盘](https://cloud.189.cn/t/yeEbMrERbYfe)
+[天翼云盘](https://cloud.189.cn/t/aQnqMnN3Iram)
 
-密码：yfg5
+密码：91my
 
 [阿里云盘](https://www.aliyundrive.com/s/guZKkcPjA9H)
 
