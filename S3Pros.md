@@ -31,6 +31,6 @@
 
 密码：myl6
 
-[OneDrive](https://dljz-my.sharepoint.com/:f:/g/personal/ycly_nii_ink/EvsJKNpEwotEhwakT9OdVZUBz_8Mxhc2YnkukuCYF4tZag?e=8p1ktA)
+[临港下载站（OneDrive）](https://lingang.xyz/6/main/EEBBK/S3%20Pros/解除软件安装限制工具)
 
 [阿里云盘](https://www.aliyundrive.com/s/U6PvGyvMk96)
