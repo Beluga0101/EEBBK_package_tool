@@ -1,6 +1,6 @@
 # EEBBK Toolbox
 
-*最新版本：1.1.2 (112)*
+*最新版本：1.1.3 (113)*
 
 ## 下载地址
 
@@ -8,9 +8,15 @@
 
 密码：ycly
 
-[OneDrive](https://dljz-my.sharepoint.com/:f:/g/personal/ycly_nii_ink/EsbdEB2fiElNt6VqHK_dCc8BrzPkIj4QhOnCzMB591wSTA?e=npXU5i)
+[临港下载站（OneDrive）](https://lingang.xyz/6/main/EEBBK/Toolbox)
 
 ### 更新日志
+
+- 1.1.3 (113)
+
+1. 更新 *Magisk* 25.0
+
+2. 更新部分描述
 
 - 1.1.2 (112)
 
