@@ -34,4 +34,4 @@
 
 [阿里云盘](https://www.aliyundrive.com/s/AztWMnXWev6)
 
-[OneDrive](https://dljz-my.sharepoint.com/:f:/g/personal/ycly_nii_ink/En7mb_gys-RGg3wg3kdxiCQBonmfw6EgLaksGuvhAfSxLA?e=7crv2T)
+[临港下载站（OneDrive）](https://lingang.xyz/6/main/EEBBK/S3%20Pro)
