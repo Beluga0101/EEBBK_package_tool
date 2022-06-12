@@ -31,6 +31,6 @@
 ## 下载地址
 [天翼云盘](https://cloud.189.cn/t/BJJjIjieI3ia)
 
-[OneDrive](https://dljz-my.sharepoint.com/:f:/g/personal/ycly_nii_ink/EniG14UgBTJPsKCpVVuInssBMlGQUAhXUFru4bsfEUOCBg?e=qKR4qn)
+[临港下载站（OneDrive）](https://lingang.xyz/6/main/EEBBK/S1W/解除软件安装限制工具)
 
 [阿里云盘](https://www.aliyundrive.com/s/pWP7ovfsTJ5)
