@@ -28,10 +28,4 @@
 **SHA-256**：5a03c3f3ab995f2b3fe09b1ae64e2748a04bc5256ce09e73ecfc0bf79574db20
 
 ## 下载地址
-[天翼云盘](https://cloud.189.cn/t/uYb2aqQzEfme)
-
-密码：ge1b
-
-[阿里云盘](https://www.aliyundrive.com/s/3j7UupcfDVc)
-
-[临港下载站（OneDrive）](https://lingang.xyz/6/main/EEBBK/S3%20Pro)
+[EEBBK BOOM](https://eebbk.com.cn/s3pro.html)
