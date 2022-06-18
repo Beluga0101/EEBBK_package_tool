@@ -39,11 +39,4 @@
 **SHA-256**：bf84b06aefc42c2a93687467d38bd457b002624e568981d78b6f28c9c9cf43db
 
 ## 下载地址
-
-[天翼云盘](https://cloud.189.cn/t/aQnqMnN3Iram)
-
-密码：91my
-
-[阿里云盘](https://www.aliyundrive.com/s/guZKkcPjA9H)
-
-[临港下载站（OneDrive）](https://lingang.xyz/6/main/EEBBK/S3%20Prow)
+[EEBBK BOOM](https://eebbk.com.cn/s3prow.html)
