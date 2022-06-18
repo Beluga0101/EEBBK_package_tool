@@ -14,7 +14,7 @@
 - [S3 Pros](S3Pros.md)
 - [S5](https://eebbk.com.cn/s5.html)
 - [S5 Pro](S5Pro.md)
-- [S6](S6.md)
+- [S6](https://eebbk.com.cn/s6.html)
 - [S1A](S1A.md)
 - [S1W](S1W.md)
 - [H8A](H8A.md)
