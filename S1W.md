@@ -29,8 +29,4 @@
 ## 本工具已内置视频教程
 
 ## 下载地址
-[天翼云盘](https://cloud.189.cn/t/BJJjIjieI3ia)
-
-[临港下载站（OneDrive）](https://lingang.xyz/6/main/EEBBK/S1W/解除软件安装限制工具)
-
-[阿里云盘](https://www.aliyundrive.com/s/pWP7ovfsTJ5)
+[EEBBK BOOM](https://eebbk.com.cn/s1w.html)
