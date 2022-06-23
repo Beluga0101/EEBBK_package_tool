@@ -1,8 +1,7 @@
-# 步步高家教机S5Pro解除第三方软件安装限制工具
+# 步步高家教机S5 Pro解除第三方软件安装限制工具
 
 ## 关于工具包
 - 作者：Yue_love
-- **适用版本**：理论全版本通用
 - 工具包版本：V2
 
 **如果您转载本人的工具包，请务必保留原作者信息**
@@ -29,10 +28,4 @@
 
 ## 下载地址
 
-[天翼云盘](https://cloud.189.cn/t/ZruAjeiU7fY3)
-
-密码：tye5
-
-[阿里云盘](https://www.aliyundrive.com/s/rxyXcNSbgyX)
-
-[OneDrive](https://1drv.ms/u/s!ArkNhbgspqsJgX_x72f0WclD1DHK)
+[EEBBK BOOM](https://eebbk.com.cn/s5pro.html)
