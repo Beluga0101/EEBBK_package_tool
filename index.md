@@ -13,7 +13,7 @@
 - [S3 Prow](https://eebbk.com.cn/s3prow.html)
 - [S3 Pros](https://eebbk.com.cn/s3pros.html)
 - [S5](https://eebbk.com.cn/s5.html)
-- [S5 Pro](S5Pro.md)
+- [S5 Pro](https://eebbk.com.cn/s5pro.html)
 - [S6](https://eebbk.com.cn/s6.html)
 - [S1A](S1A.md)
 - [S1W](https://eebbk.com.cn/s1w.html)
