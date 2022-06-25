@@ -9,8 +9,7 @@
 ### [屏蔽系统更新＆家长管理教程](https://kdocs.cn/l/cune7WAK6oZX)
 ## 支持机型
 - [H8SM H9A H9S S1Pro H20](https://eebbk.com.cn/mt8167.html)
-- [S3 Pro](https://eebbk.com.cn/s3pro.html)
-- [S3 Prow](https://eebbk.com.cn/s3prow.html)
+- [S3 Pro＆S3 Prow](https://eebbk.com.cn/s3pro.html)
 - [S3 Pros](https://eebbk.com.cn/s3pros.html)
 - [S5](https://eebbk.com.cn/s5.html)
 - [S5 Pro](https://eebbk.com.cn/s5pro.html)
