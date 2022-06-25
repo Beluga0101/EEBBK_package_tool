@@ -1,15 +1,16 @@
-# 步步高家教机S3 Pro解除第三方软件安装限制工具
+# 步步高家教机S3 Pro＆S3 Prow解除第三方软件安装限制工具
 
 ## 关于工具包
 - 作者：洋葱落叶
-- 系统版本：1.6.0
-- 工具包版本：V3.2
+- 工具包版本：V4
 
 **如果您转载本人的工具包，请务必保留原作者信息**
 
 **本工具包遵循CC BY-NC-SA 4.0协议**
 
-**作者信息和最新版本信息请以[Github](https://github.com/ycly2333/EEBBK_package_tool/blob/main/S3Pro.md)页面为准**
+**作者信息和最新版本信息请以[Github](https://github.com/EEBBK-BOOM/EEBBK_package_tool/blob/main/S3Pro.md)页面为准**
+
+*S3 Pro和S3 Prow工具自V4版本起合并*
 
 ## 关于步步高家教机解除第三方软件安装限制免责声明
 *协议更新日期：2022年2月6日*
@@ -19,13 +20,13 @@
 4. 如果您使用本工具包对家教机进行解除第三方软件安装限制之操作，即默认您同意本《免责声明》。
 
 ## 校验码
-**MD5**：a460eae149ae7d7b208739927010ea3b
+**MD5**：8DD81D513882C842024BAAF329ED7B1F
 
-**CRC-32**：dbdbe3a4
+**CRC-32**：BFCB3F35
 
-**SHA-1**：6eb5b3d12a0b85ecfbda3546ad580fca71641757
+**SHA-1**：DE870C19C8937C24886D997FC9B0A0387EC9F2DB
 
-**SHA-256**：5a03c3f3ab995f2b3fe09b1ae64e2748a04bc5256ce09e73ecfc0bf79574db20
+**SHA-256**：6931AFB03E4F867586095F6C42583E61CA406499B5BCE1148A4853D408D5DCB9
 
 ## 下载地址
 [EEBBK BOOM](https://eebbk.com.cn/s3pro.html)
