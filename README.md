@@ -14,5 +14,5 @@
 - [S5](S5.md)
 - [S5 Pro](S5Pro.md)
 - [S6](S6.md)
-- [S1W X1](S1w.md)
+- [S1W X1](S1W.md)
 - [H8A](H8A.md)
