@@ -30,3 +30,11 @@
 密码：8hf6
 
 [阿里云盘](https://www.aliyundrive.com/s/p3hCwUjFWHw)
+
+[123云盘](https://www.123pan.com/s/FbyrVv-MhqBH)
+
+[OneDrive](https://dljz-my.sharepoint.com/:f:/g/personal/ycly_nii_ink/EniG14UgBTJPsKCpVVuInssBMlGQUAhXUFru4bsfEUOCBg?e=PasbFf)
+
+[Google Drive](https://drive.google.com/drive/folders/1-DlWiFzby6vVSFSYR-vGn73_W0u2qnd8)
+
+[MEGA](https://mega.nz/folder/kOFWwKKJ#5YVsnxn4ZibBn0qZGljpnA)
