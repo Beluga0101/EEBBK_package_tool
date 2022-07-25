@@ -2,13 +2,11 @@
 
 ## 关于工具包
 - 作者：洋葱落叶
-- 工具包版本：V4
+- 工具包版本：V4.2
 
 **如果您转载本人的工具包，请务必保留原作者信息**
 
 **本工具包遵循CC BY-NC-SA 4.0协议**
-
-**作者信息和最新版本信息请以[Github](https://github.com/ycly2333/EEBBK_package_tool/blob/main/S3Pros.md)页面为准**
 
 ## 关于步步高家教机解除第三方软件安装限制免责声明
 *协议更新日期：2022年2月6日*
@@ -18,13 +16,17 @@
 4. 如果您使用本工具包对家教机进行解除第三方软件安装限制之操作，即默认您同意本《免责声明》。
 
 ## 校验码
-**MD5**：39984742CC946494C8B967FFBE53F3F1
+**MD5**：1C3C067EC55A5704FF4FBB16C8D134DE
 
-**CRC-32**：F2344C63
+**CRC-32**：20B3CE77
 
-**SHA-1**：841407352a33f9b1461f9d7bbb2f264c86f960b0
+**SHA-1**：62a62f17ac21a4741dc52c0b9fcc6e351716c06a
 
-**SHA-256**：24c12b649443a22f5a3793f5db9468fef9767ae61fceefa5b328b0094655f5a7
+**SHA-256**：5b8c8dd30f1b9776a7795677c33513519abe261c6def79e265202767ad2f5b6c
 
 ## 下载地址
-[EEBBK BOOM](https://eebbk.com.cn/s3pros.html)
+[天翼云盘](https://cloud.189.cn/t/fMN3uqniUj2i)
+
+密码：8uxi
+
+[阿里云盘](https://www.aliyundrive.com/s/ujBADs76ZUV)
