@@ -30,3 +30,11 @@
 密码：td2b
 
 [阿里云盘](https://www.aliyundrive.com/s/LyPKVkseAxE)
+
+[123云盘](https://www.123pan.com/s/FbyrVv-whqBH)
+
+[OneDrive](https://dljz-my.sharepoint.com/:f:/g/personal/ycly_nii_ink/En7mb_gys-RGg3wg3kdxiCQBonmfw6EgLaksGuvhAfSxLA?e=gb4b79)
+
+[Google Drive](https://drive.google.com/drive/folders/1-EG6Js500XDp0lBWmj8d4naIJZTVvr5J)
+
+[MEGA](https://mega.nz/folder/UPVh2ARY#6qZs_QM0IgrYmhFQVLX2yg)
