@@ -27,5 +27,8 @@
 **SHA-256**：faf162995e17e46f19b2625525ddd5b74725d751850025643fd25228840449ef
 
 ## 下载地址
+[天翼云盘](https://cloud.189.cn/t/ZruAjeiU7fY3)
 
-[EEBBK BOOM](https://eebbk.com.cn/s5pro.html)
+密码：tye5
+
+[阿里云盘](https://www.aliyundrive.com/s/T7CcE1XDVQ7)
