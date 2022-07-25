@@ -2,15 +2,11 @@
 
 ## 关于工具包
 - 作者：洋葱落叶
-- 工具包版本：V4
+- 工具包版本：V4.3
 
 **如果您转载本人的工具包，请务必保留原作者信息**
 
 **本工具包遵循CC BY-NC-SA 4.0协议**
-
-**作者信息和最新版本信息请以[Github](https://github.com/EEBBK-BOOM/EEBBK_package_tool/blob/main/S3Pro.md)页面为准**
-
-*S3 Pro和S3 Prow工具自V4版本起合并*
 
 ## 关于步步高家教机解除第三方软件安装限制免责声明
 *协议更新日期：2022年2月6日*
@@ -20,13 +16,17 @@
 4. 如果您使用本工具包对家教机进行解除第三方软件安装限制之操作，即默认您同意本《免责声明》。
 
 ## 校验码
-**MD5**：8DD81D513882C842024BAAF329ED7B1F
+**MD5**：CB80B3A296085DB3128E0221800F7AC7
 
-**CRC-32**：BFCB3F35
+**CRC-32**：8BA01657
 
-**SHA-1**：DE870C19C8937C24886D997FC9B0A0387EC9F2DB
+**SHA-1**：13865debebb025e7b68de52d2d3b007b9cf668b8
 
-**SHA-256**：6931AFB03E4F867586095F6C42583E61CA406499B5BCE1148A4853D408D5DCB9
+**SHA-256**：0907411b110f4e0597b728d77511e333714b6c73261c185178464635942fca50
 
 ## 下载地址
-[EEBBK BOOM](https://eebbk.com.cn/s3pro.html)
+[天翼云盘](https://cloud.189.cn/t/fyAzYn22Uzua)
+
+密码：td2b
+
+[阿里云盘](https://www.aliyundrive.com/s/LyPKVkseAxE)
