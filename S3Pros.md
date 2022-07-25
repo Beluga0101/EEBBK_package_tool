@@ -30,3 +30,11 @@
 密码：8uxi
 
 [阿里云盘](https://www.aliyundrive.com/s/ujBADs76ZUV)
+
+[123云盘](https://www.123pan.com/s/FbyrVv-ghqBH)
+
+[OneDrive](https://dljz-my.sharepoint.com/:f:/g/personal/ycly_nii_ink/EoiwhcC07aZKnENiKd5dyoABQlg845wdMUlWw-GG5WLSLg?e=NBYDte)
+
+[Google Drive](https://drive.google.com/drive/folders/1-FzxxHVLQfS6n7683JclUkiZJgPa1PJX)
+
+[MEGA](https://mega.nz/folder/EfExUKJC#nR8BCtw3d1m-ucGffPCvLQ)
