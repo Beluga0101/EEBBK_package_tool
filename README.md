@@ -8,11 +8,10 @@
 4. 如果您使用本工具包对家教机进行解除第三方软件安装限制之操作，即默认您同意本《免责声明》。
 ### [屏蔽系统更新＆家长管理教程](https://kdocs.cn/l/cune7WAK6oZX)
 ## 支持机型
-- [H8SM H9A H9S H20 S1Pro S1A](MT8167.md)
+- [H8SM H9A H9S H20 S1Pro S1A H8A](MT8167.md)
 - [S3 Pro＆S3 Prow](S3Pro.md)
 - [S3 Pros](S3Pros.md)
 - [S5](S5.md)
 - [S5 Pro](S5Pro.md)
 - [S6](S6.md)
 - [S1W X1](S1W.md)
-- [H8A](H8A.md)
