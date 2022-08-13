@@ -1,14 +1,12 @@
 # 步步高家教机S5 Pro解除第三方软件安装限制工具
 
 ## 关于工具包
-- 作者：Yue_love
-- 工具包版本：V2
+- 作者：洋葱落叶
+- 工具包版本：V1
 
 **如果您转载本人的工具包，请务必保留原作者信息**
 
 **本工具包遵循CC BY-NC-SA 4.0协议**
-
-**作者信息和最新版本信息请以[Github](https://github.com/EEBBK-BOOM/EEBBK_package_tool/blob/main/S5Pro.md)页面为准**
 
 ## 关于步步高家教机解除第三方软件安装限制免责声明
 *协议更新日期：2022年2月6日*
@@ -18,17 +16,25 @@
 4. 如果您使用本工具包对家教机进行解除第三方软件安装限制之操作，即默认您同意本《免责声明》。
 
 ## 校验码
-**MD5**：bfe50d34ce6759e76550f08172e879ba
+**MD5**：116FE5C5461C892CA5FF6190C43AA38F
 
-**CRC-32**：9de07b52
+**CRC-32**：C446E155
 
-**SHA-1**：2b9f8b05b0d61dd707d28bbab2fd52986106ecca
+**SHA-1**：d491e440038dee6fc455d8fb3e6c444fe5c8ad28
 
-**SHA-256**：faf162995e17e46f19b2625525ddd5b74725d751850025643fd25228840449ef
+**SHA-256**：f9992df2bec6fde1c223b7bd12e734d583b9becff19bb43d3a5bc08980378470
 
 ## 下载地址
-[天翼云盘](https://cloud.189.cn/t/ZruAjeiU7fY3)
+[天翼云盘](https://cloud.189.cn/t/iAVNRjnUVRfu)
 
-密码：tye5
+密码：9hiu
 
-[阿里云盘](https://www.aliyundrive.com/s/T7CcE1XDVQ7)
+[阿里云盘](https://www.aliyundrive.com/s/oSfEn4XVicU)
+
+[123云盘](https://www.123pan.com/s/FbyrVv-JhqBH)
+
+[OneDrive](https://dljz-my.sharepoint.com/:f:/g/personal/ycly_nii_ink/Ej5PP8roABNLmiSu6_00SFwBfM46vzEE8gSyerBP7uNXRA?e=4AEYzB)
+
+[Google Drive](https://drive.google.com/drive/folders/1P4ChFOnACZo6S9F900OyQTkYWf1FTVx-?usp=sharing)
+
+[MEGA](https://mega.nz/folder/0b0UGADC#Q9ki_S0TqkasaRDMvR8bnw)
