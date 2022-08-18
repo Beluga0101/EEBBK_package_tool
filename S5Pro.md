@@ -35,6 +35,4 @@
 
 [OneDrive](https://dljz-my.sharepoint.com/:f:/g/personal/ycly_nii_ink/Ej5PP8roABNLmiSu6_00SFwBfM46vzEE8gSyerBP7uNXRA?e=4AEYzB)
 
-[Google Drive](https://drive.google.com/drive/folders/1P4ChFOnACZo6S9F900OyQTkYWf1FTVx-?usp=sharing)
-
 [MEGA](https://mega.nz/folder/0b0UGADC#Q9ki_S0TqkasaRDMvR8bnw)
