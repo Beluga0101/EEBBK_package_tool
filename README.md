@@ -15,3 +15,4 @@
 - [S5 Pro](S5Pro.md)
 - [S6](S6.md)
 - [S1W X1](S1W.md)
+- [A6](ums512.md)
