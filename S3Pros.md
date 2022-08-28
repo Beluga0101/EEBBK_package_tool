@@ -2,7 +2,7 @@
 
 ## 关于工具包
 - 作者：洋葱落叶
-- 工具包版本：V4.3
+- 工具包版本：V4.4
 
 **如果您转载本人的工具包，请务必保留原作者信息**
 
@@ -16,13 +16,13 @@
 4. 如果您使用本工具包对家教机进行解除第三方软件安装限制之操作，即默认您同意本《免责声明》。
 
 ## 校验码
-**MD5**：7960FF692789A2D8152AE81696585AD7
+**MD5**：4FC8C7BE0D689AE90D6B7D9355AE1684
 
-**CRC-32**：16E96776
+**CRC-32**：F6AFF64E
 
-**SHA-1**：ef2188be7669136724ea259dd27953a1a1775a16
+**SHA-1**：3f88b49ac10deb53f4caace09fa9168eebc4a62c
 
-**SHA-256**：34c9e82a14fa37ff8d5da1747de857e871c8254ab6a300b021a2176e0edc09a1
+**SHA-256**：769ac19b5cf508401b619c9a10b551521e6f196975fa129b1cc285a6d1d0d9e9
 
 ## 下载地址
 [天翼云盘](https://cloud.189.cn/t/fMN3uqniUj2i)
@@ -34,7 +34,5 @@
 [123云盘](https://www.123pan.com/s/FbyrVv-ghqBH)
 
 [OneDrive](https://dljz-my.sharepoint.com/:f:/g/personal/ycly_nii_ink/EoiwhcC07aZKnENiKd5dyoABQlg845wdMUlWw-GG5WLSLg?e=NBYDte)
-
-[Google Drive](https://drive.google.com/drive/folders/1-FzxxHVLQfS6n7683JclUkiZJgPa1PJX)
 
 [MEGA](https://mega.nz/folder/EfExUKJC#nR8BCtw3d1m-ucGffPCvLQ)
