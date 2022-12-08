@@ -6,6 +6,8 @@
 
 **如果您转载本人的工具包，请务必保留原作者信息**
 
+**工具永久免费公开下载，禁止倒卖**
+
 **本工具包遵循CC BY-NC-SA 4.0协议**
 
 ## 关于步步高家教机解除第三方软件安装限制免责声明
@@ -32,7 +34,5 @@
 [阿里云盘](https://www.aliyundrive.com/s/p3hCwUjFWHw)
 
 [123云盘](https://www.123pan.com/s/FbyrVv-MhqBH)
-
-[OneDrive](https://dljz-my.sharepoint.com/:f:/g/personal/ycly_nii_ink/EniG14UgBTJPsKCpVVuInssBMlGQUAhXUFru4bsfEUOCBg?e=PasbFf)
 
 [MEGA](https://mega.nz/folder/kOFWwKKJ#5YVsnxn4ZibBn0qZGljpnA)
