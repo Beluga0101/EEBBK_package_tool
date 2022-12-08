@@ -2,9 +2,11 @@
 
 ## 关于工具包
 - 作者：洋葱落叶
-- 工具包版本：V4.5
+- 工具包版本：V4.6
 
 **如果您转载本人的工具包，请务必保留原作者信息**
+
+**工具永久免费公开下载，禁止倒卖**
 
 **本工具包遵循CC BY-NC-SA 4.0协议**
 
@@ -16,13 +18,13 @@
 4. 如果您使用本工具包对家教机进行解除第三方软件安装限制之操作，即默认您同意本《免责声明》。
 
 ## 校验码
-**MD5**：7C3138E314A49AAE9D469E5A233CFC9C
+**MD5**：937c97a6402f3bf862086d9922c70c1f
 
-**CRC-32**：FE2EB840
+**CRC-32**：d617eb1b
 
-**SHA-1**：03489612725c3be97028b2dac7a1c29fff5017ea
+**SHA-1**：0118091be4038ad58dccf15121fc8d13863f099f
 
-**SHA-256**：e8075b91d0d3d3fc3b4ef603696b407cb3b7c2d31710c9fac6b51292290c2046
+**SHA-256**：b2cdc2f562249ffa8199b9fdc8bae2134df1537794019988bef7e94b5283c76d
 
 ## 下载地址
 [天翼云盘](https://cloud.189.cn/t/fMN3uqniUj2i)
@@ -32,7 +34,5 @@
 [阿里云盘](https://www.aliyundrive.com/s/ujBADs76ZUV)
 
 [123云盘](https://www.123pan.com/s/FbyrVv-ghqBH)
-
-[OneDrive](https://dljz-my.sharepoint.com/:f:/g/personal/ycly_nii_ink/EoiwhcC07aZKnENiKd5dyoABQlg845wdMUlWw-GG5WLSLg?e=NBYDte)
 
 [MEGA](https://mega.nz/folder/EfExUKJC#nR8BCtw3d1m-ucGffPCvLQ)
