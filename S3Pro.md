@@ -2,7 +2,7 @@
 
 ## 关于工具包
 - 作者：洋葱落叶
-- 工具包版本：V4.6
+- 工具包版本：V4.7
 
 **如果您转载本人的工具包，请务必保留原作者信息**
 
@@ -16,13 +16,13 @@
 4. 如果您使用本工具包对家教机进行解除第三方软件安装限制之操作，即默认您同意本《免责声明》。
 
 ## 校验码
-**MD5**：8F56A85185338C8DF0036682D05422A4
+**MD5**：0d4dcbbf4e555de0eb2625a5294eeffd
 
-**CRC-32**：B8368438
+**CRC-32**：8ef187b9
 
-**SHA-1**：453b762ee5fadc7c78fd905ed59803ac59f38a30
+**SHA-1**：dfaeda9d8646eba7c9eae3117e686e23be8dbe52
 
-**SHA-256**：6f9144e8993b59bf33376d2233aa1f115a83f2b5c29dda748af1a6bee3adf919
+**SHA-256**：115cdea70d130a726918daa7816f8d23c65ce943270b0f8af6e5a023b606e2fe
 
 ## 下载地址
 [天翼云盘](https://cloud.189.cn/t/fyAzYn22Uzua)
@@ -32,7 +32,5 @@
 [阿里云盘](https://www.aliyundrive.com/s/LyPKVkseAxE)
 
 [123云盘](https://www.123pan.com/s/FbyrVv-whqBH)
-
-[OneDrive](https://dljz-my.sharepoint.com/:f:/g/personal/ycly_nii_ink/En7mb_gys-RGg3wg3kdxiCQBonmfw6EgLaksGuvhAfSxLA?e=gb4b79)
 
 [MEGA](https://mega.nz/folder/UPVh2ARY#6qZs_QM0IgrYmhFQVLX2yg)
