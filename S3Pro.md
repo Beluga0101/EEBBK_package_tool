@@ -2,7 +2,7 @@
 
 ## 关于工具包
 - 作者：洋葱落叶
-- 工具包版本：V4.7
+- 工具包版本：V4.8
 
 **如果您转载本人的工具包，请务必保留原作者信息**
 
@@ -18,13 +18,13 @@
 4. 如果您使用本工具包对家教机进行解除第三方软件安装限制之操作，即默认您同意本《免责声明》。
 
 ## 校验码
-**MD5**：0d4dcbbf4e555de0eb2625a5294eeffd
+**MD5**：CB08669356C5E9AF41D11B441C3BFC56
 
-**CRC-32**：8ef187b9
+**CRC-32**：E390127C
 
-**SHA-1**：dfaeda9d8646eba7c9eae3117e686e23be8dbe52
+**SHA-1**：eef46f6a65d621e4dd9bc1d72c537ac6b65e4dd2
 
-**SHA-256**：115cdea70d130a726918daa7816f8d23c65ce943270b0f8af6e5a023b606e2fe
+**SHA-256**：eced13a32c552c4cce0bbecde2b11d486662b962c97682ec78cccc5f4ba3034a
 
 ## 下载地址
 [天翼云盘](https://cloud.189.cn/t/fyAzYn22Uzua)
@@ -34,5 +34,3 @@
 [阿里云盘](https://www.aliyundrive.com/s/LyPKVkseAxE)
 
 [123云盘](https://www.123pan.com/s/FbyrVv-whqBH)
-
-[MEGA](https://mega.nz/folder/UPVh2ARY#6qZs_QM0IgrYmhFQVLX2yg)
