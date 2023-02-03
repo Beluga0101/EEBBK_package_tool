@@ -2,7 +2,8 @@
 
 ## 关于工具包
 - 作者：洋葱落叶
-- 工具包版本：V1
+- 适用版本：V1.3.0及以下
+- 工具包版本：V1.1
 
 **如果您转载本人的工具包，请务必保留原作者信息**
 
@@ -16,13 +17,13 @@
 4. 如果您使用本工具包对家教机进行解除第三方软件安装限制之操作，即默认您同意本《免责声明》。
 
 ## 校验码
-**MD5**：116FE5C5461C892CA5FF6190C43AA38F
+**MD5**：8456A96465681BC47CA766E8121683A6
 
-**CRC-32**：C446E155
+**CRC-32**：F6A802BC
 
-**SHA-1**：d491e440038dee6fc455d8fb3e6c444fe5c8ad28
+**SHA-1**：b1691d1651a7324c98066dc8dcf7d9df5cdc39af
 
-**SHA-256**：f9992df2bec6fde1c223b7bd12e734d583b9becff19bb43d3a5bc08980378470
+**SHA-256**：facc756199b9fae4319161b07b4d662ca4685b91e507d50ac3e630d20c93db34
 
 ## 下载地址
 [天翼云盘](https://cloud.189.cn/t/iAVNRjnUVRfu)
@@ -35,6 +36,3 @@
 
 密码：uH62
 
-[OneDrive](https://dljz-my.sharepoint.com/:f:/g/personal/ycly_nii_ink/Ej5PP8roABNLmiSu6_00SFwBfM46vzEE8gSyerBP7uNXRA?e=4AEYzB)
-
-[MEGA](https://mega.nz/folder/0b0UGADC#Q9ki_S0TqkasaRDMvR8bnw)
